@@ -2,7 +2,8 @@
   "packs": [
     "focinhos.json",
     "parrots.json",
-    "pull-request.json"
+    "pull-request.json",
+    "random-shit.json"
   ],
   "homeserver_url": "https://matrix.facha.dev"
 }
