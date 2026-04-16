@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "focinhos.json"
+  ],
+  "homeserver_url": "https://matrix.facha.dev"
+}
